@@ -5,6 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smraheel" alt="smraheel" /></a> </p>
 
+- 🔭 I’m currently working on *Web Development*, with a focus on creating responsive and user-friendly web interfaces.
+- 🌱 I’m currently learning *Full Stack Development* to broaden my skillset and work on end-to-end web solutions.
+- 👯 I’m looking to collaborate with *other Developers* on open-source projects and exciting web development opportunities.
+- 🥅 My goals include *Showcasing my best work and personal projects* to potential employers and collaborators.
+- 👨‍💻 You can find all of my projects on [GitHub](https://github.com/SMRaheel).
+- 💬 Feel free to reach out to me about *anything related to web development, programming, or tech trends*.
+- ⚡ Fun fact: When I'm not coding, I'm a dedicated football fan and an avid video game enthusiast.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/smraheel1300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smraheel1300" height="30" width="40" /></a>
